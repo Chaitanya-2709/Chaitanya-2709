@@ -1,12 +1,12 @@
  👋 Hi, I’m @Chaitanya Waghdhare , a passionate and curious Data Science enthusiast eager to explore the world of data and machine learning. As a fresher in the field, I’m continuously learning and applying new concepts to solve interesting problems.
 
  🌟 Key Skills:
-Programming Languages: Python, R
-Libraries & Frameworks: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-Machine Learning: Regression, Classification, Clustering, Decision Trees
-Data Visualization: Matplotlib, Seaborn, Tableau
-Databases: SQL
-Tools: Jupyter Notebooks, Git, VS Code
+- Programming Languages: Python, R
+- Libraries & Frameworks: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- Machine Learning: Regression, Classification, Clustering, Decision Trees
+- Data Visualization: Matplotlib, Seaborn, Tableau
+- Databases: SQL
+- Tools: Jupyter Notebooks, Git, VS Code
 
  💡Projects:
 1. Thermo-Smart Power Dock with Auto Cut-off: Developed an advanced mobile charging system with automatic cut-off to prevent overcharging 
