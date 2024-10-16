@@ -15,8 +15,8 @@ and overheating, reducing the risk of thermal incidents.
 psoriasis using image texture analysis,using Python libraries for data manipulation and visualization.
 
 🚀 Goals:
-Continuously upskill and contribute to real-world data problems.
-Collaborate with the open-source community and work on innovative data science projects.
+- Continuously upskill and contribute to real-world data problems.
+- Collaborate with the open-source community and work on innovative data science projects.
 <!---
 Chaitanya-2709/Chaitanya-2709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
